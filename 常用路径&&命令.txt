@@ -1,0 +1,5 @@
+常用命令
+1.mpiexec -n 8 HelloWorld_MPI.exe
+
+常用路径
+C:\ProgramFiles\Microsoft MPI\Bin

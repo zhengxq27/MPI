@@ -1,0 +1,10 @@
+﻿  HelloWorld_MPI.cpp
+c:\users\hp\desktop\mpi\code\helloworld_mpi\helloworld_mpi\helloworld_mpi.cpp(165): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\hp\desktop\mpi\code\helloworld_mpi\helloworld_mpi\helloworld_mpi.cpp(190): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\hp\desktop\mpi\code\helloworld_mpi\helloworld_mpi\helloworld_mpi.cpp(215): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\hp\desktop\mpi\code\helloworld_mpi\helloworld_mpi\helloworld_mpi.cpp(226): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\hp\desktop\mpi\code\helloworld_mpi\helloworld_mpi\helloworld_mpi.cpp(253): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\hp\desktop\mpi\code\helloworld_mpi\helloworld_mpi\helloworld_mpi.cpp(263): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\hp\desktop\mpi\code\helloworld_mpi\helloworld_mpi\helloworld_mpi.cpp(278): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\hp\desktop\mpi\code\helloworld_mpi\helloworld_mpi\helloworld_mpi.cpp(289): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  HelloWorld_MPI.vcxproj -> C:\Users\HP\Desktop\MPI\code\HelloWorld_MPI\x64\Debug\HelloWorld_MPI.exe
